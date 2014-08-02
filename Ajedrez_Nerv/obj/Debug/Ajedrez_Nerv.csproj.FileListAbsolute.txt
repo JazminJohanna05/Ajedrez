@@ -1,0 +1,1 @@
+c:\users\pavelnote\documents\visual studio 2013\Projects\Ajedrez_Nerv\Ajedrez_Nerv\bin\Debug\Ajedrez_Nerv.exe.config
